@@ -1,2 +1,5 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba
+
+John Medina
+
+Este es un proyecto para repositorio local
